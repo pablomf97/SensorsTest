@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/accelerometer_menu_item"
+        android:title="Accelerometer" />
+
+    <item
+        android:id="@+id/gyroscope_menu_item"
+        android:title="Gyroscope" />
+
+    <item
+        android:id="@+id/light_sensor_menu_item"
+        android:title="Light sensor" />
+</menu>
